@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { SectionTitle } from "../sectionTitle/section-title"
 import "./information.scss"
 
@@ -7,8 +8,8 @@ export function Information() {
         <SectionTitle text="Languages"/>
         <div className="languagesInfo">
           <span>🇧🇷 PT-BR - Native Speaker</span>
-          <span>🇺🇸 EN - Fluente</span>
-          <span>🇪🇸 ES - Fluente</span>
+          <span>🇺🇸 EN - Fluent</span>
+          <span>🇪🇸 ES - Fluent</span>
         </div>
         <SectionTitle text="Education"/>
         <div className="educationalInfo">
