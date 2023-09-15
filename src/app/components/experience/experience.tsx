@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { SectionTitle } from "../sectionTitle/section-title";
 
 import "./experience.scss"
