@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://GuilhermeRubido.github.io/my-portfolio",
+  "homepage": "https://guilhermerubido.github.io/my-portfolio",
   "private": true,
   "scripts": {
     "dev": "next dev",
